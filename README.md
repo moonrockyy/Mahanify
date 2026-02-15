@@ -1,6 +1,6 @@
 # Mahanify ☁️
 
-A modern, single-page cloud hosting website built with HTML and CSS. Mahanify offers a clean and responsive design perfect for showcasing cloud hosting services.
+A modern, single-page cloud hosting website built with HTML and CSS.
 
 ## 🛠️ Technologies Used
 
